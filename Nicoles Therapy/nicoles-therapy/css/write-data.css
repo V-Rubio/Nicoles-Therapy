@@ -39,3 +39,16 @@ p{
     text-align: center;
     background-color: cornsilk ;
   }
+
+  .button-container{
+    clear: left;
+    float: left;
+    margin-left: 12%;
+}
+
+.config-buttons {
+    float: left;
+    width: 35%;
+    margin-right: 20px;
+    
+}
